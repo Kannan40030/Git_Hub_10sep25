@@ -125,6 +125,8 @@ void main (void)
             Flasher_On_Flag = 0;
             Short_Ckt_Flag = 0;
             UL_Flag = 0;
+
+            //end
 /*            
             while(1)
             {
