@@ -11,7 +11,7 @@
 //  Date 02/06/2016
 // 	With Short Ckt Protection & Over Voltage Cut OFF.
 //*********************************************************************
-// 					Pinout Details
+// 					Pinout Details        // first change
 //*********************************************************************
 // Pin No		Functionality						Usage
 //
